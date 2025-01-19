@@ -1,1 +1,4 @@
-code 1 / dev-zubeir / main
+code 1 / marius / main
+ls
+pwd
+whoami
